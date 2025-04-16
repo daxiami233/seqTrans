@@ -1,0 +1,3 @@
+hdc shell uitest uiInput click 630 1607
+hdc shell uitest uiInput click 630 1556
+hdc shell uitest uiInput click 818 1203

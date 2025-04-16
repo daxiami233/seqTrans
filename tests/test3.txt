@@ -1,0 +1,10 @@
+hdc shell uitest uiInput click 1064 730
+hdc shell uitest uiInput click 783 659
+hdc shell uitest uiInput click 630 1784
+hdc shell uitest uiInput click  630 1591
+hdc shell uitest uiInput inputText 630 1591 '测试备注'
+hdc shell uitest uiInput click 1166 1785
+hdc shell uitest uiInput click 787 2228
+hdc shell uitest uiInput click 787 2228
+hdc shell uitest uiInput click 787 2228
+hdc shell uitest uiInput click 1102 2549

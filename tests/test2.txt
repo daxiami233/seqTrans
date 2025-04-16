@@ -1,0 +1,5 @@
+hdc shell uitest uiInput click 630 1212
+hdc shell uitest uiInput click 630 1646
+hdc shell uitest uiInput click  656 949
+hdc shell uitest uiInput inputText 656 949 'Xiaomi 14'
+hdc shell uitest uiInput click 630 1318
